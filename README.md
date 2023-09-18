@@ -31,7 +31,6 @@ bun run dev
 Build the application for production:
 
 ```bash
-# npm
 bun run build
 ```
 
